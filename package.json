@@ -1,0 +1,26 @@
+{
+  "name": "nodebeginner-tutorial",
+  "version": "1.0.0",
+  "description": "learning repo based on http://www.nodebeginner.org/ book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azam-a/nodebeginner-tutorial.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "azam-a",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azam-a/nodebeginner-tutorial/issues"
+  },
+  "homepage": "https://github.com/azam-a/nodebeginner-tutorial#readme",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  }
+}
